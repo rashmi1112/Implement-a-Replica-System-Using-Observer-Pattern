@@ -1,4 +1,5 @@
-# CSX42: Assignment 3
+# Implement-a-Replica-System-Using-Observer-Pattern
+
 **Name:** Rashmi A.Badadale
 
 -----------------------------------------------------------------------
@@ -56,16 +57,4 @@ made to any of the nodes will be notified to its subscribers, henceforth the oth
 
 A String  builder is used to store the output result and then passed on to an output file through a buffered writer and also to the standard output console. 
 Also, another stringBuilder is used to store the error messages and print them into the error file. 
-
-
-## Academic Honesty statement:
-
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating an official form will be
-submitted to the Academic Honesty Committee of the Watson School to
-determine the action that needs to be taken. "
-
-Date: [06/24/2020]
-
 
